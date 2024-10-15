@@ -1,3 +1,6 @@
 hello Git !
 
 Learnign git is fun
+
+
+Lets add some features to it and see try pushing the code 
